@@ -2322,6 +2322,13 @@ span.press {
     clear: both;
     float: left;
 }
+.ec-cart-widget{
+  margin:30px 50px;
+  float:left;
+ /* margin-left: 15em;
+
+    margin-bottom: 78em; */
+}
 .table>thead>tr>th,
 .table>tbody>tr>th,
 .table>tfoot>tr>th,
