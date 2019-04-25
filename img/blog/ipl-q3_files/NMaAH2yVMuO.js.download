@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["ffXwL"]); }
-
-__d("VideoAdCreationLoggerEvent",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({ACTION_CLIENT_UPLOAD_DISPATCH_STARTED:"action.client.upload_dispatch_started",ACTION_CLIENT_UPLOAD_DISPATCH_FINISHED:"action.client.upload_dispatch_finished"})}),null);

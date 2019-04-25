@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["5gOm4"]); }
-
-__d("withMessengerSource",["MessengerSourceContext.re","React"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g=b("React").useContext;function a(a,c){var d;c===!0?c=b("React").forwardRef(function(c,d){var e=g(b("MessengerSourceContext.re").context);return b("React").createElement(a,babelHelpers["extends"]({},c,{ref:d,source:e}))}):c=function(c){var d=g(b("MessengerSourceContext.re").context);return b("React").createElement(a,babelHelpers["extends"]({},c,{source:d}))};c.displayName=((d=(d=a.displayName)!=null?d:a.name)!=null?d:"Component")+"WithMessengerSource";return c}e.exports=a}),null);
