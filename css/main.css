@@ -1084,7 +1084,7 @@ span.border-text {
 }
 .content {
     position: relative;
-    background: pink;
+    background: skyblue;
 }
 .content::before {
     position: fixed;
@@ -2923,8 +2923,8 @@ input[type="text"] {
 }
 .footer-content address {
     color: #787878;
-    font-size: 14px;
-    letter-spacing: 1.5pt;
+    font-size: 13px;
+    letter-spacing: 1pt;
 }
 ul.social-media {
     padding: 0;
@@ -3151,3 +3151,4 @@ a img.aligncenter {
 .alert-danger .alert-link {
   color: #d2d2d2;
 }
+/*calculate*/
